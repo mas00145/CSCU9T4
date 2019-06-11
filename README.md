@@ -1,4 +1,5 @@
-# CSCU9T4: Managing Information Assignment 1 (Final Grade 100%)
+# CSCU9T4: Managing Information Assignment 1 
+(Final Grade 100%)
 # Timetabling
 
 # 1. Introduction
