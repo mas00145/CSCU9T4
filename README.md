@@ -1,6 +1,5 @@
 # CSCU9T4: Managing Information Assignment 1 
 (Final Grade 100%)
-# Timetabling
 
 # 1. 	I have implemented all of the functionality required in this assignment. 
 
